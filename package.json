@@ -1,0 +1,12 @@
+{
+  "name": "sarathi-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "test": "node src/tests.js"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
